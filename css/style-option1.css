@@ -1,0 +1,29 @@
+body{
+  background-color: #0ABFFB;
+  text-align: center;
+}
+
+h1 {
+  color: green;
+  font-size: 60px;
+  font-family: cursive;
+  line-height: 10px;
+}
+
+h2 {
+  font-family: impact;
+  text-shadow: 2px 2px #5F5F5F;
+}
+
+p {
+  font-family: serif;
+  color: #5F5F5F;
+}
+img {
+  width: 500px;
+  border: 3px solid #4CAF50;
+}
+
+li {
+  text-align: center;
+}
