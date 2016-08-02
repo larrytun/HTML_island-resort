@@ -1,0 +1,32 @@
+body{
+  background-color: #FAC108;
+  text-align: center;
+}
+
+h1 {
+  color: #5CA634;
+  font-size: 90px;
+  font-family: helvetica;
+  line-height: 10px;
+}
+
+h2 {
+  font-family: helvetica;
+  font-size: 55px
+  text-shadow: 2px 2px #FBF114;
+  color: #5CA634;
+}
+
+p {
+  font-family: serif;
+  font-size: 40px
+  color: #5CA634;
+}
+img {
+  width: 500px;
+  border: 9px solid #4CAF50;
+}
+
+li {
+  text-align: center;
+}
